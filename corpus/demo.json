@@ -1,0 +1,14 @@
+[
+  {
+    "id": "demo-001",
+    "title": "MarketMind Demo: AI Customer Support",
+    "company": "Demo Research",
+    "content": "AI customer-support platforms typically compete on automation, response quality, integrations, analytics, and total cost of ownership. Key risks include model cost changes, vendor dependency, privacy requirements, and commoditization."
+  },
+  {
+    "id": "demo-002",
+    "title": "MarketMind Demo: SaaS Positioning",
+    "company": "Demo Research",
+    "content": "A strong SaaS positioning strategy should make the target customer, core problem, differentiated outcome, and proof point immediately clear. Enterprise buyers often evaluate security, reliability, integrations, implementation effort, and measurable ROI."
+  }
+]
