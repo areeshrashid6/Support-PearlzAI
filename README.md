@@ -1,5 +1,8 @@
 # MarketMind AI — OpenAI Connection + Q&A
 
+https://support-pearlzai-6xxutuufijrqs3a2j5jj3m.streamlit.app/
+
+
 A Streamlit implementation of the MarketMind connection flow.
 
 ## Required flow
